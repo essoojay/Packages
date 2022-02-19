@@ -1,2 +1,2 @@
-# Update_NueXini_Packages
+# openwrt packages
 **Hello World!**
